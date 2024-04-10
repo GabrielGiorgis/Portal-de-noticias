@@ -1,2 +1,6 @@
-# Laboratorio 4
-Trabajos prácticos de Laboratorio de Computación IV
+Leer los comentarios en los archivos:
+
+- .properties
+- build.gradle
+- EmpresaController
+- empresaPrueba.html y empresas.html
